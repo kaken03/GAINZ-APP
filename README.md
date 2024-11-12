@@ -1,6 +1,6 @@
-# TechFolio Hub
+# GAINZ APP
 
-TechFolio Mobile App.
+GAINZ Mobile App
 
 # Features
 
